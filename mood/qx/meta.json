@@ -1,22 +1,43 @@
 {
     "version": "0.1.5",
     "id": "qx",
-    "date": 1785591145830,
-    "isFilesDifferent": false,
+    "date": 1786164061062,
+    "isFilesDifferent": true,
     "downloads": [
         {
             "url": "https://1drv.ms/u/c/64e6c7dedf9e0cae/IQABk37qdk0QSpDC28iiC9RlAWjRMK9YWFFT_P4KctJjmqM?e=o44WU0",
+            "size": 149,
             "isDirLink": false,
             "describe": "OneDrive",
             "sha256": "54D044843B3AE49567C9210867546C9B2273DA047BB5CDDA59E50F0917486FCA",
-            "format": "mrpack"
+            "format": "mrpack",
+            "hint": "如果打不开此链接，可以尝试下列夸克网盘链接。"
         },
         {
             "url": "https://pan.quark.cn/s/5c8e2787c9d6",
+            "size": 149,
             "isDirLink": false,
             "describe": "夸克",
             "sha256": "54D044843B3AE49567C9210867546C9B2273DA047BB5CDDA59E50F0917486FCA",
             "format": "mrpack"
+        },
+        {
+            "url": "https://pan.quark.cn/s/9ead61f4b36d",
+            "size": 212,
+            "isDirLink": false,
+            "describe": "夸克-完整",
+            "sha256": "52AE552BC57B12E892215959A5FCD8BE264833A40E5B189DBEDB2C8D6CBC3C90",
+            "format": "zip-full/mrpack",
+            "hint": "下载后，请解压内容到一个空文件夹，然后启动其中的LauncherX.exe，完成设置后，核对以下SHA1是否正确以防下载到被篡改的文件：D68BD3327AC71B9E56F378F0923843A4FEEA0BA3，然后再继续安装。"
+        },
+        {
+            "url": "https://pan.quark.cn/s/3fe7e79ba963",
+            "size": 469,
+            "isDirLink": false,
+            "describe": "夸克-再发",
+            "sha256": "0669BDB868E15560BE0F07A02200D183AE9B2168E00D4F5D47664327CE75FFA5",
+            "format": "zip-full",
+            "hint": "下载后，请解压内容到一个空文件夹，然后启动其中的LauncherX.exe并完成设置。这个完整整合包无需继续安装。"
         }
     ]
 }

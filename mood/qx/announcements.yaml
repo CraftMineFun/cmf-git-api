@@ -1,3 +1,10 @@
+- date: 1786534390961
+  level: accident
+  title: 0.1.6服务端变更
+  content: |
+    由于特殊原因，一些服务端的Mod不可用。请删除或禁用客户端对应mod：
+    > Accessories Compat Layer
+
 - date: 1786329468849
   level: normal
   title: 公告测试

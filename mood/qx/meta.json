@@ -3,7 +3,7 @@
     "id": "qx",
     "date": 1786293877777,
     "isFilesDifferent": true,
-    "updateDetailsHtml": "添加了饰品和一些盔甲。本次更新主要从Modrinth选择了mod，如果希望直接升级现有游戏，可以在LauncherX直接前往“下载/Modrinth资源下载”标签来搜索并安装到游戏。新增如下mod：<ul><li>Accessories Compat Layer (0.1.12)</li> <li>Charm of Undying (9.1.0)</li> <li>Artifacts (13.2.1)</li> <li>Immersive Armors (1.7.6)</li> <li>OctoLib (0.6.2)</li> <li>ArmorOfTheAges (1.5.10)</li> <li>Epic Knights (10.12)</li> <li>More Armor (1.0.5)</li>  </ul>总共8个，客户端需装8个。",
+    "updateDetailsHtml": "添加了饰品和一些盔甲。本次更新主要从Modrinth选择了mod，如果希望直接升级现有游戏，可以在LauncherX直接前往“下载/Modrinth资源下载”标签来搜索并安装到游戏。新增如下mod：<ul><li>Accessories Compat Layer (现已移除)</li> <li>Charm of Undying (9.1.0)</li> <li>Artifacts (13.2.1)</li> <li>Immersive Armors (1.7.6)</li> <li>OctoLib (0.6.2)</li> <li>ArmorOfTheAges (1.5.10)</li> <li>Epic Knights (10.12)</li> <li>More Armor (1.0.5)</li>  </ul>总共8个，客户端需装8个。",
     "downloads": [
         {
             "url": "https://1drv.ms/u/c/64e6c7dedf9e0cae/IQBKb53zKq1BSIGwGVpiXQiGAcWLz9HWQZK7OuLozUnCgb0?e=4P3iJN",

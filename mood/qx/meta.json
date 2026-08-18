@@ -1,42 +1,42 @@
 {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "id": "qx",
-    "date": 1786293877777,
+    "date": 1787024788655,
     "isFilesDifferent": true,
-    "updateDetailsHtml": "添加了饰品和一些盔甲。本次更新主要从Modrinth选择了mod，如果希望直接升级现有游戏，可以在LauncherX直接前往“下载/Modrinth资源下载”标签来搜索并安装到游戏。新增如下mod：<ul><li>Accessories Compat Layer (现已移除)</li> <li>Charm of Undying (9.1.0)</li> <li>Artifacts (13.2.1)</li> <li>Immersive Armors (1.7.6)</li> <li>OctoLib (0.6.2)</li> <li>ArmorOfTheAges (1.5.10)</li> <li>Epic Knights (10.12)</li> <li>More Armor (1.0.5)</li>  </ul>总共8个，客户端需装8个。",
+    "updateDetailsHtml": "<p>0.1.7更新现已应用。<br>新增的mod：</p><ul><li>- GroovyModLoader 6.0.2</li><li>- New_Cars 4.4</li><li>- MTS Official Pack V29</li><li>- Immersive Vehicles 24.0.0</li><li>- Steam'n'Railways Neoforge 0.3.0-b2</li><li>- create decoration 2.1.3</li></ul><p>以下mod必须更新到对应版本：</p><li>- Create Sifter > 2.3.0</li><li>- Pointblank: Jelly > 2.2.0</li><li>- AdorableHamsterPets > 3.6.1</li><li>- Mechanicals > 1.1.6</li><li>- Tom's Storage > 2.4.1</li><li>- Farmer's Delight > 1.3.3</li><li>- Architectury > 13.0.11</li><p>移除以下mod：</p><ul><li>- Accessory Curios Compact</li><li>- Point Blank Recipes</li></ul><p>推荐直接安装新版客户端/整合包，因为附带了很多新的优化和配置文件项目（包括防止IV车包被实体优化影响）<br>此外，服务器最近添加了很多新的合成表：</p><ul><li>- 附魔金胡萝卜</li><li>- 面团等量转换</li><li>- 绳子等量转换</li></ul><p>一些装备会在全服广播：</p><ul><li>- 机械动力的下界合金潜水头盔</li><li>- 罗马百夫长头盔</li><li>- 粘液套装</li></ul><p>服务器现在会在使用`/set-itemname`为物品命名后的怪物击杀中默认广播击杀信息（自定义名称、物品原型、击杀距离等）<br>更多使用方法和详细信息暂时未准备到CSKB。请加群询问。</p>",
     "downloads": [
         {
-            "url": "https://1drv.ms/u/c/64e6c7dedf9e0cae/IQBKb53zKq1BSIGwGVpiXQiGAcWLz9HWQZK7OuLozUnCgb0?e=4P3iJN",
-            "sizeMB": 150,
+            "url": "https://1drv.ms/u/c/64e6c7dedf9e0cae/IQBeRwjlig3hS5hy4KkmkXM0AeqSiwpboSmNYQF_eihHSnw?e=drk2ur",
+            "sizeMB": 164,
             "isDirLink": false,
             "describe": "OneDrive",
-            "sha256": "250071E6E681D5CE6DC6E5A395FC8A2CA1EDB1F13F81FE016A6E4AB0365F7846",
+            "sha256": "EE06B03AAB36EFB88FB63D54AA4BC4E8909C3E5530595D3E10454623FDBECA66",
             "format": "mrpack",
             "hint": "如果打不开此链接，可以尝试下列夸克网盘链接。"
         },
         {
-            "url": "https://pan.quark.cn/s/7a9a7bf159c9",
-            "sizeMB": 150,
+            "url": "https://pan.quark.cn/s/80b948b85819",
+            "sizeMB": 164,
             "isDirLink": false,
             "describe": "夸克",
-            "sha256": "250071E6E681D5CE6DC6E5A395FC8A2CA1EDB1F13F81FE016A6E4AB0365F7846",
+            "sha256": "EE06B03AAB36EFB88FB63D54AA4BC4E8909C3E5530595D3E10454623FDBECA66",
             "format": "mrpack"
         },
         {
-            "url": "https://pan.quark.cn/s/414050886ae2",
-            "sizeMB": 213,
+            "url": "https://pan.quark.cn/s/9300a28d0d04",
+            "sizeMB": 227,
             "isDirLink": false,
             "describe": "夸克",
-            "sha256": "711900BA4BCEEC84BF9430707AC479A0674DDA94BED5BFA968C5E7C99B59C06B",
+            "sha256": "5F7997D83741C0FE36F55C1F1B636EF86CC4E7C97775CC98A0A90313583D58F4",
             "format": "zip-lx/mrpack/win64",
-            "hint": "这个版本客户端压缩包中包含了推荐使用的启动器。下载后，请解压内容到一个空文件夹，然后启动其中的LauncherX.exe，完成设置后，启动器将弹出窗口询问是否安装内置的整合包。核对弹出窗口中的SHA1和以下SHA1是否匹配以防下载到被篡改的文件：369C18930218CBF34646821C288B1AB162556BE3，如果正确再点击安装。"
+            "hint": "这个版本客户端压缩包中包含了推荐使用的启动器。下载后，请解压内容到一个空文件夹，然后启动其中的LauncherX.exe，完成设置后，启动器将弹出窗口询问是否安装内置的整合包。核对弹出窗口中的SHA1和以下SHA1是否匹配以防下载到被篡改的文件：1F5B603B87F7F7D806BD468FFF383E8775B6616F，如果正确再点击安装。"
         },
         {
-            "url": "https://pan.quark.cn/s/9b05922148de",
-            "sizeMB": 442,
+            "url": "https://pan.quark.cn/s/123a136387b7",
+            "sizeMB": 789,
             "isDirLink": false,
             "describe": "夸克",
-            "sha256": "BDAE99550EDBDC82545C3838E14C705EEB79B95120F98520DEE25DD937863144",
+            "sha256": "F6AAC283C5FC02543C745ACBFDFC2D977ED87EF6045380C4BC8C211E0445E0C2",
             "format": "zip-lx/rerelease/win64",
             "hint": "这个版本客户端压缩包中包含了推荐使用的启动器。下载后，请解压内容到一个空文件夹，然后启动其中的LauncherX.exe并完成设置。这个完整整合包无需继续安装。"
         }

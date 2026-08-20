@@ -7,9 +7,10 @@
 
 - date: 1787188038777
   level: accident
-  title: 服务器DOWN
+  title: 服务器DOWN | 已解决
   content: |
-    未知原因导致服务器暂不可用，正在排查中。(#MQX26001)
+    已解决 QuantumiX 不可用问题 (#MQX26001)
+    原因：未知原因导致的内存溢出。现已调整相关优化参数并持续关注profiler。
 
 - date: 1787136699999
   level: maintain

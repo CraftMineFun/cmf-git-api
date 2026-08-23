@@ -1,13 +1,14 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "id": "qx",
     "date": 1787024788655,
+    "released": false,
     "isFilesDifferent": true,
-    "updateDetailsHtml": "<p>0.1.7更新现已应用。<br>新增的mod：</p><ul><li>- GroovyModLoader 6.0.2</li><li>- New_Cars 4.4</li><li>- MTS Official Pack V29</li><li>- Immersive Vehicles 24.0.0</li><li>- Steam'n'Railways Neoforge 0.3.0-b2</li><li>- create decoration 2.1.3</li></ul><p>以下mod必须更新到对应版本：</p><ul><li>- Create Sifter > 2.3.0</li><li>- Pointblank: Jelly > 2.2.0</li><li>- AdorableHamsterPets > 3.6.1</li><li>- Mechanicals > 1.1.6</li><li>- Tom's Storage > 2.4.1</li><li>- Farmer's Delight > 1.3.3</li><li>- Architectury > 13.0.11</li></ul><p>移除以下mod：</p><ul><li>- Accessory Curios Compact</li><li>- Point Blank Recipes</li></ul><p>推荐直接安装新版客户端/整合包，因为附带了很多新的优化和配置文件项目（包括防止IV车包被实体优化影响）<br>此外，服务器最近添加了很多新的合成表：</p><ul><li>- 附魔金胡萝卜</li><li>- 面团等量转换</li><li>- 绳子等量转换</li></ul><p>一些装备会在全服广播：</p><ul><li>- 机械动力的下界合金潜水头盔</li><li>- 罗马百夫长头盔</li><li>- 粘液套装</li></ul><p>服务器现在会在使用`/set-itemname`为物品命名后的怪物击杀中默认广播击杀信息（自定义名称、物品原型、击杀距离等）<br>更多使用方法和详细信息暂时未准备到CSKB。请加群询问。</p>",
+    "updateDetailsHtml": "<p>0.1.8更新现已应用。<br>本次更新包含了一些新的载具选择。具体更新内容请点击服务器信息板右上角的【公告】按钮查看。<br>如果下载选项不可见但是能看到版本信息，则代表服务器还在维护中，下载链接未同步。</p>",
     "downloads": [
         {
-            "url": "https://1drv.ms/u/c/64e6c7dedf9e0cae/IQBeRwjlig3hS5hy4KkmkXM0AeqSiwpboSmNYQF_eihHSnw?e=drk2ur",
-            "sizeMB": 164,
+            "url": "#",
+            "sizeMB": 157,
             "isDirLink": false,
             "describe": "OneDrive",
             "sha256": "EE06B03AAB36EFB88FB63D54AA4BC4E8909C3E5530595D3E10454623FDBECA66",
@@ -15,25 +16,25 @@
             "hint": "如果打不开此链接，可以尝试下列夸克网盘链接。"
         },
         {
-            "url": "https://pan.quark.cn/s/80b948b85819",
-            "sizeMB": 164,
+            "url": "#",
+            "sizeMB": 157,
             "isDirLink": false,
             "describe": "夸克",
             "sha256": "EE06B03AAB36EFB88FB63D54AA4BC4E8909C3E5530595D3E10454623FDBECA66",
             "format": "mrpack"
         },
         {
-            "url": "https://pan.quark.cn/s/9300a28d0d04",
-            "sizeMB": 227,
+            "url": "#",
+            "sizeMB": 226,
             "isDirLink": false,
             "describe": "夸克",
-            "sha256": "5F7997D83741C0FE36F55C1F1B636EF86CC4E7C97775CC98A0A90313583D58F4",
+            "sha256": "C08F856D87E2B196711594F09F9F0D7FB4066E8B649842E8C6E475FDB6855FA0",
             "format": "zip-lx/mrpack/win64",
-            "hint": "这个版本客户端压缩包中包含了推荐使用的启动器。下载后，请解压内容到一个空文件夹，然后启动其中的LauncherX.exe，完成设置后，启动器将弹出窗口询问是否安装内置的整合包。核对弹出窗口中的SHA1和以下SHA1是否匹配以防下载到被篡改的文件：<br><b class=\"text-lg font-semibold font-mono bg-accent select-text! px-px\">1F5B603B87F7F7D806BD468FFF383E8775B6616F</b><br>如果正确再点击安装。"
+            "hint": "这个版本客户端压缩包中包含了推荐使用的启动器。下载后，请解压内容到一个空文件夹，然后启动其中的LauncherX.exe，完成设置后，启动器将弹出窗口询问是否安装内置的整合包。核对弹出窗口中的SHA1和以下SHA1是否匹配以防下载到被篡改的文件：<br><b class=\"text-lg font-semibold font-mono bg-accent select-text! px-px\">2F7A0289B7C8097C25E8E0E74C0C5DF2A46CEC89</b><br>如果正确再点击安装。"
         },
         {
-            "url": "https://pan.quark.cn/s/123a136387b7",
-            "sizeMB": 789,
+            "url": "#",
+            "sizeMB": 638,
             "isDirLink": false,
             "describe": "夸克",
             "sha256": "F6AAC283C5FC02543C745ACBFDFC2D977ED87EF6045380C4BC8C211E0445E0C2",

@@ -34,3 +34,10 @@
     - New_Cars
     [警告]
     Vehicle-Unofficial 中的「小巴车」无法驾驶: 移植作者尚未处理客户端驾驶小巴车会发生的崩溃问题。
+
+- date: 1787484796354
+  level: accident
+  title: 模组问题（Vehicle Unofficial）
+  content: |
+    模组 “Vehicle Unofficial” 出现严重的崩服问题。 (#MQX26002)
+    请移除或禁用此Mod（在LauncherX的模组管理中搜索Vehicle）然后再加入服务器。

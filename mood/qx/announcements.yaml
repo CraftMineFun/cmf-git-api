@@ -19,21 +19,11 @@
     我们已将服务器迁移到性能更好的设备。预计游玩延迟会增加30ms，但是服务器卡顿大幅减缓。
     服务器仍然使用赞助商【集云社】产品进行支持。通过本站主页底部的友情链接与我们的赞助商取得联系，按需租用物美价廉的云服务！
 
-- date: 1787455253035
-  level: normal
-  title: 0.1.8 更新内容
+- date: 1788084975651
+  level: maintain
+  title: 0.1.9 更新预告
   content: |
-    0.1.8更新移除了“画风迥异”的不和谐mod, 并追加了一些其他更简单的载具。
-    [新增]
-    - Official Automobile Pack V3
-    - [IV] R.A.G.E 3.0-beta2
-    - CosmeticArmours 1.5.3.1
-    - [MrCrayFish] Vehicle-Unofficial 20260709
-    - MorePetVariation 0.1.1
-    [移除]
-    - New_Cars
-    [警告]
-    Vehicle-Unofficial 中的「小巴车」无法驾驶: 移植作者尚未处理客户端驾驶小巴车会发生的崩溃问题。
+    我们已准备好0.1.9更新内容，将在2026年8月31日9:00~12:00进行停服升级，并随后发布更新包。
 
 - date: 1787484796354
   level: accident

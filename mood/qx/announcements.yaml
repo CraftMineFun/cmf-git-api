@@ -5,13 +5,6 @@
     这个公告是为了测试CMF网站端的公告系统。
     请保持关注此处的公告和上面的更新内容以跟踪服务器新闻，不过我说加群等群公告更方便。
 
-- date: 1787189430619
-  level: accident
-  title: 服务器DOWN | 已解决 (09:28)
-  content: |
-    已解决 QuantumiX 不可用问题 (#MQX26001)
-    原因：未知原因导致的内存溢出。现已调整相关优化参数并持续关注profiler。
-
 - date: 1787450817361
   level: maintain
   title: 服务器已更换
@@ -19,15 +12,60 @@
     我们已将服务器迁移到性能更好的设备。预计游玩延迟会增加30ms，但是服务器卡顿大幅减缓。
     服务器仍然使用赞助商【集云社】产品进行支持。通过本站主页底部的友情链接与我们的赞助商取得联系，按需租用物美价廉的云服务！
 
-- date: 1788084975651
-  level: maintain
-  title: 0.1.9 更新预告
+- date: 1788145797777
+  level: normal
+  title: 0.1.9 更新
   content: |
-    我们已准备好0.1.9更新内容，将在2026年8月31日9:00~12:00进行停服升级，并随后发布更新包。
+    我们添加了更多内容以扩充玩法，包括但不限于更多扩展枪支和家具，以及引入了星际探险。
+    [新增Mod]
+    - Another Furniture 4.0.2
+    - Beltborne Lanterns 1.2.5
+    - BL Accessories Layer 1.2.2
+    - Collective 8.39
+    - Crawl On Demand 1.2.0
+    - Create Clothes 1.0
+    - Deimos 2.7
+    - Door Knocking 1.0.1
+    - Dramatic Doors 3.3.2
+    - Helldivers 1.2.1
+    - Laser Bridges v6
+    - Macaw's Bridges 3.1.2
+    - Macaw's Fences 1.2.1
+    - Macaw's Roofs 2.3.2
+    - Potentials 0.7.1
+    - Small Ships 2.0.0-b2.1
+    - Spookydoors 21.1.11
+    - Stellaris 1.4.25
 
-- date: 1787484796354
+    [扩展包]
+    - pointblank/
+      - helldivers2-ext
+      - halo-winter-contingency
+      - pbext-1.0
+      - pointblank-cyberpunk-guns
+    以上内容若无版本号，则选择2026年8月28日前最新的一版使用。
+
+    [更新Mod]
+    - Balm > 21.0.65
+    - SuperbWarfare > 0.8.9.1-f
+
+    [移除Mod]
+    - More Pet Variation: 由于与光影不兼容，弃用
+    - Vehicle Unofficial: 由于严重的崩服问题（2个未处理issue）而弃用
+
+    [其他内容]
+    - 我们正在征集一些节日！在游戏中的每一年度过节日，或许可以有对应的礼品发放。目前设定了除新年以外有一年便乘二度的114节，分别在1月14日和11月4日。
+    - 现在中世纪棉甲与时装冲突的问题已被解决。
+    - 现在可以通过木剑选区然后使用命令[/lock-door]来防止手动误触装饰性的门。但是请注意，红石影响无法被屏蔽。
+    - 添加了一些合成表来用炼金的方式减缓蕨芽短缺的问题
+
+    [备注]
+    我们建议通过快捷键关闭Sit on Everything的[ctrl+右键]坐下功能，然后前往设置移除此快捷键（在对应项分配按键时按下esc）以减轻服务端的日志输出负担。
+
+- date: 1788145796565
   level: accident
-  title: 模组问题（Vehicle Unofficial）
+  title: 模组性能问题（SuperbWarfare）
   content: |
-    模组 “Vehicle Unofficial” 出现严重的崩服问题。 (#MQX26002)
-    请移除或禁用此Mod（在LauncherX的模组管理中搜索Vehicle）然后再加入服务器。
+    模组 “卓越前线” 现已确认存在周期性导致服务器卡顿的问题 (#MQX26003)
+    在解决方案确认之前，请尽可能少布置常驻的激光炮塔和载具。载具除非作为必要装饰，否则请收在集装箱里。
+    刻意使用载具挂区块常加载被发现将没收载具并对对应区块范围实施严格的实体清理与优化。

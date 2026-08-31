@@ -1,28 +1,30 @@
 {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "id": "qx",
-    "date": 1787024788655,
+    "date": 1788147358770,
     "released": true,
     "isFilesDifferent": true,
-    "updateDetailsHtml": "<p>0.1.8更新现已应用。<br><span class=\"text-red-400\">请注意：模组“Vehicle Unofficial”出现严重的崩服问题，服务端已将此mod禁用，请同步禁用客户端的此模组。</span>详细信息见公告中的【事故：MQX26002】<br>本次更新包含了一些新的载具选择。具体更新内容请点击服务器信息板右上角的【公告】按钮查看。<br>如果下载选项不可见但是能看到版本信息，则代表服务器还在维护中，下载链接未同步。</p>",
+    "updateDetailsHtml": "<p>0.1.9更新现已应用。<br>详细信息见公告中的【事故：MQX26002】<br>本次更新包含了一些新的载具选择。具体更新内容请点击服务器信息板右上角的【公告】按钮查看。<br>如果下载选项不可见但是能看到版本信息，则代表服务器还在维护中，下载链接未同步。</p>",
     "downloads": [
         {
-            "url": "https://1drv.ms/u/c/64e6c7dedf9e0cae/IQBaLuCrDuEmR7k86IWNmcLKARXR61pyPJR25TAeGTy4fj8?e=zMm2di",
+            "url": "https://1drv.ms/u/c/64e6c7dedf9e0cae/IQDRdJuHEal-S4svNKVlZnfhAdSw2I8foD6Q-lCp4muPp1s?e=bnoqbB",
             "sizeMB": 157,
             "isDirLink": false,
             "describe": "OneDrive",
-            "sha256": "A90A595BA393FAF35A164E3D42BBCE4120E01665BF00BE9BD5F478EA8BAE0E7B",
+            "sha256": "FAA7161D56B11D2E6939D700B011B3DA2E6A01FBB2DDD96AF208E43C700BAF50",
             "format": "mrpack",
             "hint": "如果打不开此链接，可以尝试下列夸克网盘链接。"
         },
         {
-            "url": "https://pan.quark.cn/s/a5bbee510ed5",
+            "url": "https://pan.quark.cn/s/9b430666189e",
             "sizeMB": 157,
             "isDirLink": false,
             "describe": "夸克",
-            "sha256": "A90A595BA393FAF35A164E3D42BBCE4120E01665BF00BE9BD5F478EA8BAE0E7B",
+            "sha256": "FAA7161D56B11D2E6939D700B011B3DA2E6A01FBB2DDD96AF208E43C700BAF50",
             "format": "mrpack"
-        },
+        }
+    ],
+    "u": [
         {
             "url": "https://pan.quark.cn/s/92ddb8866c8b",
             "sizeMB": 226,

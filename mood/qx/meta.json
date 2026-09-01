@@ -2,25 +2,25 @@
     "version": "0.1.9-re1",
     "id": "qx",
     "date": 1788233025167,
-    "released": false,
-    "isFilesDifferent": true,
-    "updateDetailsHtml": "<p>0.1.9更新现已应用。<br>本次更新包含了一些新的枪械、家具装饰以及全新的星际探险。具体更新内容请点击服务器信息板右上角的【公告】按钮查看。<br>如果下载选项不可见但是能看到版本信息，则代表服务器还在维护中，下载链接未同步。</p>",
+    "released": true,
+    "isFilesDifferent": false,
+    "updateDetailsHtml": "<p>0.1.9更新现已应用。<br>(0.1.9-re1的具体说明见公告中的#MQX26005以及公告的更新日志)<br>本次更新包含了一些新的枪械、家具装饰以及全新的星际探险。具体更新内容请点击服务器信息板右上角的【公告】按钮查看。<br>如果下载选项不可见但是能看到版本信息，则代表服务器还在维护中，下载链接未同步。</p>",
     "downloads": [
         {
-            "url": "https://1drv.ms/u/c/64e6c7dedf9e0cae/IQDRdJuHEal-S4svNKVlZnfhAdSw2I8foD6Q-lCp4muPp1s?e=bnoqbB",
-            "sizeMB": 157,
+            "url": "https://1drv.ms/u/c/64e6c7dedf9e0cae/IQCPIWBx9WHKT5jIBfvkRdVvAeQ3eUlqoNikzaZsR_23D90?e=N8rKk3",
+            "sizeMB": 197,
             "isDirLink": false,
             "describe": "OneDrive",
-            "sha256": "FAA7161D56B11D2E6939D700B011B3DA2E6A01FBB2DDD96AF208E43C700BAF50",
+            "sha256": "6E2CD14ABB972A52D031BFFEBFEA0B0FA5CA118A82B32A929D8E2AA07BE0C6AF",
             "format": "mrpack",
             "hint": "如果打不开此链接，可以尝试下列夸克网盘链接。"
         },
         {
-            "url": "https://pan.quark.cn/s/9b430666189e",
-            "sizeMB": 157,
+            "url": "https://pan.quark.cn/s/db8221a05bfc",
+            "sizeMB": 197,
             "isDirLink": false,
             "describe": "夸克",
-            "sha256": "FAA7161D56B11D2E6939D700B011B3DA2E6A01FBB2DDD96AF208E43C700BAF50",
+            "sha256": "6E2CD14ABB972A52D031BFFEBFEA0B0FA5CA118A82B32A929D8E2AA07BE0C6AF",
             "format": "mrpack"
         }
     ],

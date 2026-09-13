@@ -1,6 +1,7 @@
 - date: 1786329468849
   level: normal
   title: 公告测试
+  visible: false
   content: |
     这个公告是为了测试CMF网站端的公告系统。
     请保持关注此处的公告和上面的更新内容以跟踪服务器新闻，不过我说加群等群公告更方便。
@@ -20,52 +21,50 @@
     我们已将服务器迁移到性能更好的设备。预计游玩延迟会增加30ms，但是服务器卡顿大幅减缓。
     服务器仍然使用赞助商【集云社】产品进行支持。通过本站主页底部的友情链接与我们的赞助商取得联系，按需租用物美价廉的云服务！
 
-- date: 1788232455783
-  level: normal
-  title: 0.1.9-re1 更新
+- date: 1789299933333
+  level: maintain
+  title: 0.1.10 更新
   content: |
-    我们添加了更多内容以扩充玩法，包括但不限于更多扩展枪支和家具，以及引入了星际探险。
-    [!] 重发说明：由于Pointblank出于某种原因忽然出现了玩家看不到其他玩家手持枪械的问题，且2.1.0版本存在手枪切换卡顿问题，现决定退回到2.0.5版本。(#MQX26005)
+    此次更新将于2026年9月14日8:00~14:00部署。更新内容如下：
+    [!] 我们在客户端内准备了一个Mod用于修复在客户端的手模丢失问题（体现在玩家手持带有GUI瞄准镜的枪械时，若枪械来自CP2077枪包或瞄准镜来自此包，瞄准时立刻丢失手部和手中物品的模型）
+    感谢来自RayFilm的帮助。
+
     [新增Mod]
-    - Another Furniture 4.0.2
-    - Beltborne Lanterns 1.2.5
-    - BL Accessories Layer 1.2.2
-    - Collective 8.39
-    - Crawl On Demand 1.2.0
-    - Create Clothes 1.0
-    - Deimos 2.7
-    - Door Knocking 1.0.1
-    - Dramatic Doors 3.3.2
-    - Helldivers 1.2.1
-    - Laser Bridges v6
-    - Macaw's Bridges 3.1.2
-    - Macaw's Fences 1.2.1
-    - Macaw's Roofs 2.3.2
-    - Potentials 0.7.1
-    - Small Ships 2.0.0-b2.1
-    - Spookydoors 21.1.11
-    - Stellaris 1.4.25
+    - AeroWarfare Compat 1.15.0
+    - Ultimate Car Mod 1.0.46
+    - Compact Gearbox 1.0.2
+    - Create Tweaked Controllers 1.2.7
+    - Create: Diesel Generators 1.3.15
+    - Create: Numismatics 1.1.0
+    - Design'n'Decor 2.2b
+    - DriveByWire 0.3.0
+    - Escalated 1.3.2
+    - HaloVecs 5.1.0
+    - MCSP 1.0.10
+    - Rolling Tones 0.2.2
+    - Sable Cars 1.5.0 // 这个可能在下个版本移除
+    - SN Assets 1.0.2
+    - TaCZ (NeoForge Port) 1.1.8-hf-r6
+    - theSubmarineMod 1.0.0
+    - Traffic Craft 1.1.3
+    - YWZJ 0.5.10
 
-    [扩展包]
-    - pointblank/
-      - helldivers2-ext
-      - halo-winter-contingency
-      - pbext-1.0
-      - pointblank-cyberpunk-guns
-    以上内容若无版本号，则选择2026年8月28日前最新的一版使用。
-
-    [更新Mod]
-    - Balm > 21.0.65
-    - SuperbWarfare > 0.8.9.1-f
-    - [!]Pointblank > 2.0.5 (降级)
+    [新增Mod: 客户端优化与修复]
+    - Searchables 1.0.2
+    - Controlling 19.0.5
+    - RayBlankFix by RayFilm 1.0
 
     [移除Mod]
-    - More Pet Variation: 由于与光影不兼容，弃用
-    - Vehicle Unofficial: 由于严重的崩服问题（2个未处理issue）而弃用
+    由于过于劣质的物理逻辑，现在决定彻底移除Immersive Vehicle和其附属Mod。
+    - Immersive Vehicle
+    - OAmP
+    - R.A.G.E.
+    - MTS Official Pack
+    - BL Accessories Layer 这个插槽会导致无法尽可能多地携带腰带物品
 
     [其他内容]
     - 我们正在征集一些节日！在游戏中的每一年度过节日，或许可以有对应的礼品发放。目前设定了除新年以外有一年便乘二度的114节，分别在1月14日和11月4日。
-    - 现在中世纪棉甲与时装冲突的问题已被解决。
+    - 一部分合成表冲突的问题已被解决。
     - 现在可以通过木剑选区然后使用命令[/lock-door]来防止手动误触装饰性的门。但是请注意，红石影响无法被屏蔽。
     - 添加了一些合成表来用炼金的方式减缓蕨芽短缺的问题
 

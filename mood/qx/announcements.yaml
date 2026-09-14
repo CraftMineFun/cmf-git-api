@@ -25,7 +25,7 @@
   level: maintain
   title: 0.1.10 更新
   content: |
-    此次更新将于2026年9月14日8:00~14:00部署。更新内容如下：
+    此次更新【已于2026年9月14日9:30部署】更新内容如下：
     [!] 我们在客户端内准备了一个Mod用于修复在客户端的手模丢失问题（体现在玩家手持带有GUI瞄准镜的枪械时，若枪械来自CP2077枪包或瞄准镜来自此包，瞄准时立刻丢失手部和手中物品的模型）
     感谢来自RayFilm的帮助。
 
@@ -45,8 +45,9 @@
     - SN Assets 1.0.2
     - TaCZ (NeoForge Port) 1.1.8-hf-r6
     - theSubmarineMod 1.0.0
-    - Traffic Craft 1.1.3
+    - Traffic Craft 1.2.0+3
     - YWZJ 0.5.10
+    - DragonLib b3.0.28
 
     [新增Mod: 客户端优化与修复]
     - Searchables 1.0.2

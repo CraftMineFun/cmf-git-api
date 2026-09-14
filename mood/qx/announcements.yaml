@@ -1,11 +1,3 @@
-- date: 1786329468849
-  level: normal
-  title: 公告测试
-  visible: false
-  content: |
-    这个公告是为了测试CMF网站端的公告系统。
-    请保持关注此处的公告和上面的更新内容以跟踪服务器新闻，不过我说加群等群公告更方便。
-
 - date: 1788451584428
   level: accident
   title: 击杀广播问题（Pointblank崩服修复补丁）
@@ -79,15 +71,24 @@
     在解决方案确认之前，请尽可能少布置常驻的激光炮塔和载具。载具除非作为必要装饰，否则请收在集装箱里。
     刻意使用载具挂区块常加载被发现将没收载具并对对应区块范围实施严格的实体清理与优化。
 
+# invisibles give templates of different situations.
+
+- date: 1786329468849
+  level: normal
+  title: 公告测试
+  visible: false
+  content: |
+    这个公告是为了测试CMF网站端的公告系统。
+    请保持关注此处的公告和上面的更新内容以跟踪服务器新闻，不过我说加群等群公告更方便。
+
 - date: 1788593159112
   level: maintain
   title: 接到可能断电的警告
+  visible: false
   content: |
     接到通知，未来的3小时内上级电源可能进入维护状态。(2026年9月5日 15点30分开始算)
     若突发断电，游戏中的进度可能会部分回退，机器状态可能受损。但是我们会在来电后的十分钟内完成服务器重启。
     此次事件不计入事故。
-
-# invisibles
 
 - date: 1788232455783
   level: accident
